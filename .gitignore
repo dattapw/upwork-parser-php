@@ -1,0 +1,6 @@
+vendor/
+*json_output.txt
+*default.cookie
+*.csv
+*.lock
+.idea/
